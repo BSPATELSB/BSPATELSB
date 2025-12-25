@@ -1,78 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Bhaumik%20Patel&fontSize=70&animation=fadeIn" />
   
-  <h3>🚀 Senior Embedded UI / Software Engineer</h3>
-  <p><i>Specializing in High-Performance Graphics for Constrained Systems</i></p>
+# 🛰️ BSPATELSB | Embedded UI Architect
+**Qt / QML Expert • LVGL Specialist • C++ Enthusiast**
 
-  <p>
-    <a href="https://linkedin.com/in/bhaumik-patel-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
-
----
-
-### 🛠️ Core Expertise
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Embedded Frameworks</h4>
-      <ul>
-        <li><b>Qt & QML:</b> Custom shaders, Canvas 3D, and optimization.</li>
-        <li><b>LVGL:</b> Light and Versatile Graphics Library for MCUs.</li>
-        <li><b>Embedded Linux:</b> Yocto Project, Buildroot, and Kernel tuning.</li>
-        <li><b>Hardware Abstraction:</b> DRM/KMS, EGL/GLES integration.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Engineering Stack</h4>
-      <ul>
-        <li><b>Languages:</b> Modern C++ (17/20), C, Python.</li>
-        <li><b>Systems:</b> RTOS (FreeRTOS, Zephyr), STM32, i.MX8.</li>
-        <li><b>Tools:</b> CMake, Git, Docker, GDB, Valgrind.</li>
-        <li><b>Design:</b> Figma to UI Code, Adobe XD.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎨 Tech Stack & Proficiency
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,linux,c,cmake,git,docker,py,figma,arduino" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Qt_Expertise-Highly_Proficient-green?style=flat-square&logo=qt" />
-  <img src="https://img.shields.io/badge/LVGL-Core_Contributor_Level-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/QML-UI_Architecture-blue?style=flat-square" />
-</div>
-
----
-
-### 📈 Contribution Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhaumik-patel-dev&show_icons=true&theme=transparent&hide_border=true&title_color=33ccff&icon_color=33ccff&text_color=ffffff" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumik-patel-dev&layout=compact&theme=transparent&hide_border=true&title_color=33ccff&text_color=ffffff" />
+  <img src="https://img.shields.io/badge/Status-Active_Developer-0077b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Embedded_GUI-00b4d8?style=for-the-badge" />
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=BSPATELSB&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+---
+
+### 🛠 Technical Command Center
+
+| **UI Frameworks** | **Languages & Core** | **Systems & Tools** |
+| :--- | :--- | :--- |
+| 🔹 **Qt 5 / 6** (C++ & QML) | 🔹 **Modern C++** (17/20) | 🔹 **Embedded Linux** (Yocto) |
+| 🔹 **LVGL** (MCU Graphics) | 🔹 **Embedded C** | 🔹 **RTOS** (FreeRTOS) |
+| 🔹 **Embedded Wizard** | 🔹 **Python** (Scripting) | 🔹 **CMake & Git** |
+
+---
+
+### 🎨 Tech Stack Matrix
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaumik-patel-dev&theme=transparent&hide_border=true&stroke=33ccff&ring=33ccff&fire=33ccff&currStreakLabel=33ccff" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,c,linux,cmake,git,docker,py,figma,arduino&theme=dark" alt="BSPATELSB Skills" />
 </p>
 
 ---
 
-### 🤝 Let's Collaborate
-I am always open to discussing **Embedded Systems Architecture**, **HMI Design**, or **Open Source contributions**. 
+### 📊 Performance Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BSPATELSB&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&border_color=00b4d8" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSPATELSB&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00b4d8&text_color=ffffff&border_color=00b4d8" />
+</p>
 
-- 💬 Ask me about: **How to squeeze 60 FPS out of a 200MHz MCU.**
-- ⚡ Fun Fact: I spend as much time in the data sheets as I do in the IDE.
+<p align="center">
+  <img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=BSPATELSB&theme=tokyonight&fire=00b4d8&ring=00b4d8&sideNums=00b4d8&currStreakNum=00b4d8&stroke=00b4d8" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaumik-patel-dev&theme=onedark&no-frame=true&column=7" />
-</div>
+---
+
+### 💠 UI Development Philosophy
+```mermaid
+graph LR
+    Input[Design/Figma] --> Logic{Qt or LVGL?}
+    Logic -->|High Power| Qt[Qt Quick / QML]
+    Logic -->|Low Power| LVGL[C / LVGL]
+    Qt --> Output[60 FPS Fluid HMI]
+    LVGL --> Output
+    style Logic fill:#003366,stroke:#00c6ff,color:#fff
+    style Output fill:#003366,stroke:#00c6ff,color:#fff
